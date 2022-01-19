@@ -17,7 +17,7 @@ You can install the released version of accord from
 install.packages("accord")
 ```
 
-## Example
+## Usage
 
 ## Other Works
 
@@ -28,3 +28,10 @@ There are a few implementations of Discord API functions at the moment:
 -   [Pirate](https://github.com/TheOnlyArtz/Pirate) by Amit Katz wraps
     more of the API and data models but is less maintained, uses R6, and
     doesn’t seem to have much documentation (?)
+
+## Code of Conduct
+
+Please note that the accord project is released with a [Contributor Code
+of
+Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html).
+By contributing to this project, you agree to abide by its terms.
