@@ -8,13 +8,24 @@
 
 The goal of accord is to provide an interface to the Discord API.
 
+## ROADMAP
+
 ## Installation
 
-You can install the released version of accord from
-[CRAN](https://CRAN.R-project.org) with:
+<!-- cran install
+You can install the released version of accord from [CRAN](https://CRAN.R-project.org) with:
+
+
+```r
+install.packages("accord")
+```
+-->
+
+You can install the development version of accord from GitHub with
 
 ``` r
-install.packages("accord")
+# install.packages("remotes")
+remotes::install_github("tanho63/accord")
 ```
 
 ## Usage
